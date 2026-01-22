@@ -1,0 +1,10 @@
+src/simulator
+src/logger
+src/server
+src/*.dSYM/
+measurements.db
+measurements.db-shm
+measurements.db-wal
+*.log
+.DS_Store
+.vscode
